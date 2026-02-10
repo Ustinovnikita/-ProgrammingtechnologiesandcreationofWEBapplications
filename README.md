@@ -1,1 +1,1 @@
-Технологии программирования и создание WEB приложений ИСТ-33  Устинов Никита  Дмитриевич.
+# Programming-technologies-and-creation-of-web-applications-IST-33
